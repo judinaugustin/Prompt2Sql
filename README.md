@@ -85,8 +85,8 @@ User → Flask Web UI → Groq LLM API → SQL Generation → SQLite Execution �
 Pull requests are welcome!
 If you’d like to extend Prompt2SQL with:
 
-Vector-based schema retrieval (for large DBs)
-Multi-database connectors (PostgreSQL/MySQL)
+Vector-based schema retrieval (for large DBs),
+Multi-database connectors (PostgreSQL/MySQL),
 Fine-tuned NL→SQL models
 
 please open an issue or submit a PR.
